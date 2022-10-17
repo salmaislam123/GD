@@ -1,0 +1,32 @@
+Garaphic Design
+               1. What is Garaphic Design?
+                = Garaphic Design is visuel commonation with using some element's some tool's.
+2. Garaphic Design mani 3 step 
+                * what-> what is Garaphic Design?
+                * How-> how is Garaphic Designs work's?
+                * when->when can it be called Garaphic Design? 
+How element's
+		1.size.
+		2.color.
+		3.text.
+		4.line/Illustration/shope.
+		5.Texture.
+		6.Image.
+Tool's
+		1.photo shop
+		2.Illustrator
+		3.power point
+		4.prinerpro
+		5.after effeet
+		6.Indesign
+color's
+		1.RGB=rad,green,blue.
+		2.cyan,megnta,yallou,black.
+		3.gray.
+shape
+		1.geomatic shape.
+		2.orgaic shape.
+priniple of Design
+		1.Alignment
+		2.Balance
+		3.propotion.
